@@ -1,3 +1,3 @@
 class roles::webhost {
-include profiles::webhost
+include profiles::apache
 }
