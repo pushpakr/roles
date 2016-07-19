@@ -1,4 +1,3 @@
-class roles::webhost {
-include profiles::webhost
+class roles {
 }
 
